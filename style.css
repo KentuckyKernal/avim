@@ -1,0 +1,209 @@
+		#topContainer {
+			background-image: url("http://s16.postimg.org/kip595lrp/main_banner_image.jpg");
+			height:900px;
+			width: 100%;
+			background-size:cover;
+			margin: 0 auto;
+		}
+		
+		.navbar-default{
+		  background:transparent;
+		  background-image:none;
+		  border-color:transparent;
+		  box-shadow:none;
+	
+		}
+		
+		.Title{
+		font-family: "Arial Narrow", Arial, sans-serif;
+		font-size: 1.4em;
+		}
+		
+		#loopy{
+		font-size: 1.2em;
+		font-weight: 100;
+		letter-spacing: 10px;
+		font-stretch:ultra-condensed;
+		}
+		
+		#loopy_main{
+		font-size: 150%;
+		
+		}
+		
+		#loopy_two{
+		font-size: 1.2em;
+		font-weight: 100;
+		letter-spacing: 1px;
+		font-stretch:ultra-condensed;
+		}
+		
+		.an-text h4{
+		font-size: 0.99em;		
+			
+		}
+
+		.justified {
+			position:absolute;
+			left:44%;
+		}
+		
+		.navbar-brand{
+		padding-left: 10cm;
+		}
+	
+		.btn-transparent {
+		background: transparent;
+		color: white;
+		
+		}
+		
+		.gridsec{
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+		}
+		
+		
+		td {
+		padding: 10px;
+		}
+		
+		.box-gs {
+		position:absolute;
+		width: 200px;
+		height: 75px;
+		left:840px;
+		top:945px;
+		border-bottom: 2px solid red;
+		border-top: 2px solid red;
+		}
+		.gs-vert  {
+		font-size: 1.9em;
+		font-style: italic;
+		line-height:75px;
+		}	
+	
+		.box-1 {
+		position:absolute;
+		width: 225px;
+		height: 250px;
+		left:550px;
+		top:1105px;
+		border: 2px solid white;
+		}
+		
+		.verti-1 p {
+		font-size: 1.9em;
+		font-style: italic;
+		line-height:250px;
+		}
+		
+		
+		.box-2 {
+		position:absolute;
+		width: 225px;
+		height: 250px;
+		left:840px;
+		top:1105px;
+		border: 2px solid white;
+		vertical-align: middle;
+		}
+		
+		.verti-2 p {
+		font-size: 1.9em;
+		font-style: italic;
+		line-height:250px;
+		}
+		
+		.box-3 {
+		position:absolute;
+		width: 225px;
+		height: 250px;
+		left:1130px;
+		top:1105px;
+		border: 2px solid white;
+		}		
+
+		.verti-3 p {
+		font-size: 1.9em;
+		font-style: italic;
+		line-height:250px;
+		}
+		
+		.box-4 {
+		position:absolute;
+		width: 150px;
+		height: 150px;
+		left:650px;
+		top:1510px;
+		border-bottom: 1px solid white;
+		border-top: 1px solid white;
+		}	
+
+		.verti-4 p {
+		font-size: 1.9em;
+		line-height:40px;
+		}
+		
+		
+		.box-5 {
+		position:absolute;
+		width: 150px;
+		height: 150px;
+		left:1100px;
+		top:1510px;
+		border-bottom: 1px solid white;
+		border-top: 1px solid white;
+		}			
+
+		.verti-5 p {
+		font-size: 1.9em;
+		line-height:40px;
+		}
+		
+		.Another {
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+		background-color: #f2f2f2;
+		width:100%;
+		}
+		
+	
+		.box-an {
+		
+		position:absolute;
+		width: 200px;
+		height: 75px;
+		left:840px;
+		top:1840px;
+		border-bottom: 2px solid red;
+		border-top: 2px solid red;
+		}
+		.an-vert  {
+		font-size: 1.9em;
+		font-style: italic;
+		line-height:75px;
+		}				
+		
+		.btn-transparent-1 {
+		background: transparent;
+
+		
+		}
+		
+		.foot {
+		font-family: "Trebuchet MS", Helvetica, sans-serif;
+		}
+		
+		#newsLetter {
+			background-image: url("https://s11.postimg.org/698w2ipkz/newsletter_bg_image.jpg");
+			height:220px;
+			width: 100%;
+			background-size:cover;
+			margin: 0 auto;
+			
+		}
+		
+		input[type="email"]
+		{
+		background: transparent;
+		}
+		
